@@ -22,12 +22,12 @@
 ### My contacts:
 <div id="badges">
   <a href="https://www.linkedin.com/in/gvozdevpofi/">
-    <img src="https://u.realgeeks.media/hasayproperties/linkedin.png" height="70" alt="LinkedIn"/>
+    <img src="https://u.realgeeks.media/hasayproperties/linkedin.png" height="60" alt="LinkedIn"/>
   </a>
   <a href="https://t.me/destroymon">
-    <img src="https://td-odegda.ru/images/logo/telegram2.png" height="70" alt="Telegram"/>
+    <img src="https://td-odegda.ru/images/logo/telegram2.png" height="60" alt="Telegram"/>
   </a>
   <a href="mailto:aonefan@gmail.com">
-    <img src="https://www.citypng.com/public/uploads/preview/-11597283135pwufcfsb09.png" height="70" alt="Gmail"/>
+    <img src="https://www.citypng.com/public/uploads/preview/-11597283135pwufcfsb09.png" height="60" alt="Gmail"/>
   </a>
 </div>
